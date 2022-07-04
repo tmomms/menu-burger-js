@@ -33,7 +33,7 @@ max-width: 900px;
     display: none;
 }
 .ul-mobile{
-    margin: 0 auto;
+    margin-top: 50px;
 }
 
 .nav__li{
@@ -44,7 +44,7 @@ max-width: 900px;
 
 .li-mobile{
     text-align: center;
-    margin-top: 35px;
+    margin-top: 20px;
     font-weight: bold;
     color: aliceblue;
     font-size: 30px;
